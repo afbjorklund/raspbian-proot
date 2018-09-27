@@ -17,6 +17,14 @@ Install:
 
 `sudo apt install proot qemu-user`
 
+
+You will need a Raspbian image, which can be downloaded zipped at around 350M:
+
+``` console
+$ wget http://director.downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-06-29/2018-06-27-raspbian-stretch-lite.zip
+$ unzip 2018-06-27-raspbian-stretch-lite.zip
+```
+
 We can list the partitions on the standard offical Raspbian image, using `fdisk`:
 
 ``` console
