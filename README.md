@@ -1,15 +1,15 @@
 
-# Raspian and Proot
+# Raspbian and Proot
 
-This about running Raspian GNU/Linux (arm), in a PRoot environment (amd64).
+This about running Raspbian GNU/Linux (arm), in a PRoot environment (amd64).
 
-* Debian
-* Raspian
+* Debian <https://www.debian.org>
+* Raspbian <https://www.raspbian.org>
 
-* PRoot
-* Qemu
+* PRoot <https://proot-me.github.io/>
+* Qemu <https://www.qemu.org/>
 
-We can list the partitions on the standard offical Raspian image, using `fdisk`:
+We can list the partitions on the standard offical Raspbian image, using `fdisk`:
 
 ``` console
 $ LANG=C fdisk -l 2018-06-27-raspbian-stretch-lite.img
