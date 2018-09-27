@@ -6,8 +6,16 @@ This about running Raspbian GNU/Linux (arm), in a PRoot environment (amd64).
 * Debian <https://www.debian.org>
 * Raspbian <https://www.raspbian.org>
 
+Download:
+
+https://www.raspberrypi.org/downloads/raspbian/
+
 * PRoot <https://proot-me.github.io/>
 * Qemu <https://www.qemu.org/>
+
+Install:
+
+`sudo apt install proot qemu-user`
 
 We can list the partitions on the standard offical Raspbian image, using `fdisk`:
 
