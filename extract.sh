@@ -1,1 +1,1 @@
-unzip 2018-06-27-raspbian-stretch-lite.zip
+unzip 2020-05-27-raspios-buster-lite-armhf.zip

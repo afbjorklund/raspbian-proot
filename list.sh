@@ -1,1 +1,1 @@
-LANG=C fdisk -l 2018-06-27-raspbian-stretch-lite.img
+LANG=C fdisk -l 2020-05-27-raspios-buster-lite-armhf.img

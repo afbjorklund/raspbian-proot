@@ -1,5 +1,7 @@
 *-raspbian-stretch-lite.zip
 *-raspbian-stretch-lite.img
+*-raspios-buster-lite-armhf.img
+*-raspios-buster-lite-armhf.zip
 
 hello.o.arm
 hello.arm
